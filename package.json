@@ -1,0 +1,34 @@
+{
+  "name": "view-ui-project-vuecli",
+  "version": "1.0.0",
+  "description": "a template project for vue3, vue-router, vuex, ViewUIPlus and @vue/cli.",
+  "scripts": {
+    "dev": "npm run serve",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "build:staging": "vue-cli-service build --mode=staging"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "mockjs": "^1.1.0"
+  },
+  "engines": {
+    "node": ">= 12.0.0",
+    "npm": ">= 6.9.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
