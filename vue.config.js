@@ -6,8 +6,8 @@ const { NODE_ENV, VUE_APP_TITLE = '' } = process.env
 const config = {
   transpileDependencies: false,
   productionSourceMap: NODE_ENV === 'production',
-  chainWebpack: setting => {
-    setting.plugin('html').tap(args => {
+  chainWebpack: (setting) => {
+    setting.plugin('html').tap((args) => {
       args[0].APP_TITLE = VUE_APP_TITLE
       return args
     })
