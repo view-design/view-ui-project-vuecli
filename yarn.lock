@@ -1901,7 +1901,7 @@
 
 "async-validator@^3.3.0":
   "integrity" "sha512-8eLCg00W9pIRZSB781UUX/H6Oskmm8xloZfr09lz5bikRpBVDlJ3hRVuxxP1SxcwsEYfJ4IU8Q19Y8/893r3rQ=="
-  "resolved" "https://registry.npmmirror.com/async-validator/-/async-validator-3.5.2.tgz"
+  "resolved" "https://registry.npmjs.org/async-validator/-/async-validator-3.5.2.tgz"
   "version" "3.5.2"
 
 "async@^2.6.2":
@@ -1980,8 +1980,8 @@
   "version" "1.5.1"
 
 "batch-processor@1.0.0":
-  "integrity" "sha512-xoLQD8gmmR32MeuBHgH0Tzd5PuSZx71ZsbhVxOCRbgktZEPe4SQy7s9Z50uPp0F/f7iw2XmkHN2xkgbMfckMDA=="
-  "resolved" "https://registry.npmmirror.com/batch-processor/-/batch-processor-1.0.0.tgz"
+  "integrity" "sha1-dclcMrdI4IUNEMKxaPa9vpiRrOg="
+  "resolved" "https://registry.npmjs.org/batch-processor/-/batch-processor-1.0.0.tgz"
   "version" "1.0.0"
 
 "batch@0.6.1":
@@ -2455,6 +2455,11 @@
     "path-type" "^4.0.0"
     "yaml" "^1.10.0"
 
+"countup.js@^1.9.3":
+  "integrity" "sha1-zj5QzXFgRB5HjwfaMYle3MDxyd0="
+  "resolved" "https://registry.npmjs.org/countup.js/-/countup.js-1.9.3.tgz"
+  "version" "1.9.3"
+
 "cross-spawn@^6.0.0":
   "integrity" "sha512-eTVLrBSt7fjbDygz805pMnstIs2VTBNkRm0qxZd+M7A5XDdxVRWO5MxGBXZhjY4cqLYLdtrGqRf8mBPmzwSpWQ=="
   "resolved" "https://registry.npmmirror.com/cross-spawn/-/cross-spawn-6.0.5.tgz"
@@ -2605,6 +2610,11 @@
   "resolved" "https://registry.npmmirror.com/csstype/-/csstype-2.6.20.tgz"
   "version" "2.6.20"
 
+"dayjs@^1.11.0":
+  "integrity" "sha512-F4LXf1OeU9hrSYRPTTj/6FbO4HTjPKXvEIC1P2kcnFurViINCVk3ZV0xAS3XVx9MkMsXbbqlK6hjseaYbgKEHw=="
+  "resolved" "https://registry.npmjs.org/dayjs/-/dayjs-1.11.2.tgz"
+  "version" "1.11.2"
+
 "debug@^2.6.9":
   "integrity" "sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA=="
   "resolved" "https://registry.npmmirror.com/debug/-/debug-2.6.9.tgz"
@@ -2659,7 +2669,7 @@
 
 "deepmerge@^2.2.1":
   "integrity" "sha512-R9hc1Xa/NOBi9WRVUWg19rl1UB7Tt4kuPd+thNJgFZoxXsTz7ncaPaeIm+40oSGuP33DfMb4sZt1QIGiJzC4EA=="
-  "resolved" "https://registry.npmmirror.com/deepmerge/-/deepmerge-2.2.1.tgz"
+  "resolved" "https://registry.npmjs.org/deepmerge/-/deepmerge-2.2.1.tgz"
   "version" "2.2.1"
 
 "default-gateway@^6.0.3":
@@ -2819,7 +2829,7 @@
 
 "element-resize-detector@^1.2.0":
   "integrity" "sha512-Fl5Ftk6WwXE0wqCgNoseKWndjzZlDCwuPTcoVZfCP9R3EHQF8qUtr3YUPNETegRBOKqQKPW3n4kiIWngGi8tKg=="
-  "resolved" "https://registry.npmmirror.com/element-resize-detector/-/element-resize-detector-1.2.4.tgz"
+  "resolved" "https://registry.npmjs.org/element-resize-detector/-/element-resize-detector-1.2.4.tgz"
   "version" "1.2.4"
   dependencies:
     "batch-processor" "1.0.0"
@@ -3992,7 +4002,7 @@
 
 "js-calendar@^1.2.3":
   "integrity" "sha512-dAA1/Zbp4+c5E+ARCVTIuKepXsNLzSYfzvOimiYD4S5eeP9QuplSHLcdhfqFSwyM1o1u6ku6RRRCyaZ0YAjiBw=="
-  "resolved" "https://registry.npmmirror.com/js-calendar/-/js-calendar-1.2.3.tgz"
+  "resolved" "https://registry.npmjs.org/js-calendar/-/js-calendar-1.2.3.tgz"
   "version" "1.2.3"
 
 "js-message@1.0.7":
@@ -4173,6 +4183,11 @@
   dependencies:
     "p-locate" "^4.1.0"
 
+"lodash.chunk@^4.2.0":
+  "integrity" "sha1-ZuXOH3btJ7QwPYxlEujRIW6BBrw="
+  "resolved" "https://registry.npmjs.org/lodash.chunk/-/lodash.chunk-4.2.0.tgz"
+  "version" "4.2.0"
+
 "lodash.debounce@^4.0.8":
   "integrity" "sha1-gteb/zCmfEAF/9XiUVMArZyk168= sha512-FT1yDzDYEoYWhnSGnpE/4Kj1fLZkDFyqRb7fNt6FdYOSxlUWAtp42Eh6Wb0rGIv/m9Bgo7x4GhQbm5Ys4SG5ow=="
   "resolved" "https://registry.npmmirror.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz"
@@ -4204,8 +4219,8 @@
   "version" "4.6.2"
 
 "lodash.throttle@^4.1.1":
-  "integrity" "sha512-wIkUCfVKpVsWo3JSZlc+8MB5it+2AN5W8J7YVMST30UrvcQNZ1Okbj+rbVniijTWE6FGYy4XJq/rHkas8qJMLQ=="
-  "resolved" "https://registry.npmmirror.com/lodash.throttle/-/lodash.throttle-4.1.1.tgz"
+  "integrity" "sha1-wj6RtxAkKscMN/HhzaknTMOb8vQ="
+  "resolved" "https://registry.npmjs.org/lodash.throttle/-/lodash.throttle-4.1.1.tgz"
   "version" "4.1.1"
 
 "lodash.uniq@^4.5.0":
@@ -4550,6 +4565,11 @@
   dependencies:
     "boolbase" "^1.0.0"
 
+"numeral@^2.0.6":
+  "integrity" "sha1-StCAk21EPCVhrtnyGX7//iX05QY="
+  "resolved" "https://registry.npmjs.org/numeral/-/numeral-2.0.6.tgz"
+  "version" "2.0.6"
+
 "object-assign@^4.0.1":
   "integrity" "sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM= sha512-rJgTQnkUnH1sFw8yT6VSU3zD3sWmu6sZhIseY8VX+GRu3P6F7Fu+JNDoXfklElbLJSnc3FUQHVe4cU5hj+BcUg=="
   "resolved" "https://registry.npmmirror.com/object-assign/-/object-assign-4.1.1.tgz"
@@ -4852,7 +4872,7 @@
 
 "popper.js@^1.14.6":
   "integrity" "sha512-Wb4p1J4zyFTbM+u6WuO4XstYx4Ky9Cewe4DWrel7B0w6VVICvPwdOpotjzcf6eD8TsckVnIMNONQyPIUFOUbCQ=="
-  "resolved" "https://registry.npmmirror.com/popper.js/-/popper.js-1.16.1.tgz"
+  "resolved" "https://registry.npmjs.org/popper.js/-/popper.js-1.16.1.tgz"
   "version" "1.16.1"
 
 "portfinder@^1.0.26", "portfinder@^1.0.28":
@@ -5486,6 +5506,11 @@
   "resolved" "https://registry.npmmirror.com/select-hose/-/select-hose-2.0.0.tgz"
   "version" "2.0.0"
 
+"select@^1.1.2":
+  "integrity" "sha1-DnNQrN7ICxEIUoeG7B1EGNEbOW0="
+  "resolved" "https://registry.npmjs.org/select/-/select-1.1.2.tgz"
+  "version" "1.1.2"
+
 "selfsigned@^2.0.1":
   "integrity" "sha512-LmME957M1zOsUhG+67rAjKfiWFox3SBxE/yymatMZsAx+oMrJ0YQ8AToOnyCm7xbeg2ep37IHLxdu0o2MavQOQ=="
   "resolved" "https://registry.npmmirror.com/selfsigned/-/selfsigned-2.0.1.tgz"
@@ -5989,7 +6014,7 @@
 
 "tinycolor2@^1.4.1":
   "integrity" "sha512-vJhccZPs965sV/L2sU4oRQVAos0pQXwsvTLkWYdqJ+a8Q5kPFzJTuOFwy7UniPli44NKQGAglksjvOcpo95aZA=="
-  "resolved" "https://registry.npmmirror.com/tinycolor2/-/tinycolor2-1.4.2.tgz"
+  "resolved" "https://registry.npmjs.org/tinycolor2/-/tinycolor2-1.4.2.tgz"
   "version" "1.4.2"
 
 "to-fast-properties@^2.0.0":
@@ -6136,7 +6161,7 @@
 
 "v-click-outside-x@^3.7.1":
   "integrity" "sha512-WmUgmcIXr9clVpm1AYS/FgHtcDicfnfoxgQCNg4O6vfk9GVnxA0vSqO321ogUo0b7czYTidj7fQENvWFMWOkUg=="
-  "resolved" "https://registry.npmmirror.com/v-click-outside-x/-/v-click-outside-x-3.7.1.tgz"
+  "resolved" "https://registry.npmjs.org/v-click-outside-x/-/v-click-outside-x-3.7.1.tgz"
   "version" "3.7.1"
 
 "v8-compile-cache@^2.0.3":
@@ -6157,17 +6182,22 @@
   "resolved" "https://registry.npmmirror.com/vary/-/vary-1.1.2.tgz"
   "version" "1.1.2"
 
-"view-design@^4.7.0":
-  "integrity" "sha512-WRvVRfsZciN0aJYlz+6b1zxs5G8tLFb4OUKOu+PiN0QyIGmdgWVziEyEmioYtJahQpueWiQpRYGzyxrpz3UkWQ=="
-  "resolved" "https://registry.npmmirror.com/view-design/-/view-design-4.7.0.tgz"
-  "version" "4.7.0"
+"view-ui-plus@^1.0.0-beta.1":
+  "integrity" "sha512-3uhLGH0bRDTCmTp4qHzeaN6L9qP1alJMOUBcq2JTVUdEfZ2VPyWAmpn2KivlSf6QJ0s2PidO2y1aE/RRUCBK0w=="
+  "resolved" "https://registry.npmjs.org/view-ui-plus/-/view-ui-plus-1.0.0-beta.1.tgz"
+  "version" "1.0.0-beta.1"
   dependencies:
     "async-validator" "^3.3.0"
+    "countup.js" "^1.9.3"
+    "dayjs" "^1.11.0"
     "deepmerge" "^2.2.1"
     "element-resize-detector" "^1.2.0"
     "js-calendar" "^1.2.3"
+    "lodash.chunk" "^4.2.0"
     "lodash.throttle" "^4.1.1"
+    "numeral" "^2.0.6"
     "popper.js" "^1.14.6"
+    "select" "^1.1.2"
     "tinycolor2" "^1.4.1"
     "v-click-outside-x" "^3.7.1"
 
@@ -6223,7 +6253,7 @@
   "resolved" "https://registry.npmmirror.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz"
   "version" "1.9.1"
 
-"vue@^2 || ^3.2.13", "vue@^2.6.10", "vue@^3.0.2", "vue@^3.2.0", "vue@^3.2.13", "vue@3.2.33":
+"vue@^2 || ^3.2.13", "vue@^3.0.2", "vue@^3.2.0", "vue@^3.2.13", "vue@3.2.33":
   "integrity" "sha512-si1ExAlDUrLSIg/V7D/GgA4twJwfsfgG+t9w10z38HhL/HA07132pUQ2KuwAo8qbCyMJ9e6OqrmWrOCr+jW7ZQ=="
   "resolved" "https://registry.npmmirror.com/vue/-/vue-3.2.33.tgz"
   "version" "3.2.33"
