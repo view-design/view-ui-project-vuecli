@@ -12,6 +12,15 @@ const config = {
       return args
     })
   },
+  css: {
+    loaderOptions: {
+      less: {
+        lessOptions: {
+          javascriptEnabled: true,
+        }
+      }
+    }
+  },
   pluginOptions: {
     'style-resources-loader': {
       preProcessor: 'less',
